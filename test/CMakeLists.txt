@@ -25,6 +25,7 @@ add_executable(
   tests/quotes.cpp
   tests/test_widechar.cpp
   tests/result_conversion.cpp
+  tests/test_stubs.cpp
   tests/col_attribute/col_attribute.cpp
   tests/col_attribute/char_query.cpp
   tests/col_attribute/int_query.cpp
